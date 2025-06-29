@@ -1,0 +1,21 @@
+.idea
+new_user_credentials.csv
+utils/_pychache_
+
+__pycache__/
+*.pyc
+
+# Environment
+.env
+*.env
+
+# AWS credentials
+user3_accessKeys.csv
+
+# Flask uploads/results
+static/uploads/
+static/result/
+
+# OS files
+.DS_Store
+Thumbs.db
